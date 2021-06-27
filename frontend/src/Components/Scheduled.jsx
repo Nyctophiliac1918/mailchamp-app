@@ -40,7 +40,7 @@ const Winner = () => {
 
         firebase.auth().onAuthStateChanged((user) => {
             if (user) {
-                axios.get('http://localhost:8080/events', {
+                axios.get('https://rocky-shore-56501.herokuapp.com/events', {
                     params: {
                         uid: user.uid
                     }

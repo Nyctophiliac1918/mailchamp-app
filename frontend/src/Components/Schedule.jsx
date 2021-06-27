@@ -89,7 +89,7 @@ export default function Recurring() {
         }
         console.log(details);
         axios
-        .post('http://localhost:8080/events', details)
+        .post('https://rocky-shore-56501.herokuapp.com/events', details)
         .then((res) => {
             console.log("Yes");
         })

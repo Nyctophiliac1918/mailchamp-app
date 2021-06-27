@@ -1,6 +1,5 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './App.css';
 import Header from './Header';
 import Landing from './Landing';
 import Login from './Login';

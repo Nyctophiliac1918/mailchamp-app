@@ -125,7 +125,7 @@ router.post('/', function(req,res)
         if(min === "") min = "*";
         if(s === "") s = "*";
 
-        cronString = `${s} ${min} ${h} ${day} ${mon} ${day}`;
+        cronString = `${s} ${min} ${h} ${d} ${mon} ${day}`;
 
 
         console.log(cronString);

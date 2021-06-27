@@ -38,7 +38,7 @@ export default function Home() {
                     email,
                     uid
                 }
-                axios.post('http://localhost:8080/home', details)
+                axios.post('https://rocky-shore-56501.herokuapp.com/home', details)
                 .then((res) => {
                     console.log("Done")
                 })
