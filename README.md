@@ -25,8 +25,8 @@ Project is created with:
 * app.js: Instantiates and configures the main app.
 
 ### Deployed Links
-* Backend: https://lottery-app-1918.herokuapp.com
-* Frontend: https://lottery-app-1918.netlify.app
+* Backend: https://rocky-shore-56501.herokuapp.com/
+* Frontend: https://flipr-app-1918.netlify.app/
 
 ## Setup
 To run this project, install it locally using npm and yarn, respectively.
