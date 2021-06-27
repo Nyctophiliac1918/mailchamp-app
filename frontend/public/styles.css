@@ -1,0 +1,74 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 86%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    margin: 0 7%;
+}
+
+.topic {
+    margin: 1% 7% 0;
+    text-align: center;
+    justify-content: center;
+}
+
+.generator {
+    display: block;
+    width: 25%;
+    float: right;
+}
+
+.intro {
+    /* margin: 4% 7% 0; */
+    text-align: center;
+    justify-content: center;
+}
+
+.talk {
+    padding-top: 100px;
+}
+
+.talk > h1 {
+    font-size: 60px !important;
+    font-weight: bold;
+    color: black;
+}
+
+.start {
+    border-radius: 9px;
+    border-width: 0.1em;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    margin-left: 30px;
+    text-decoration: none !important;
+    color: white !important;
+    display: flex !important;
+    justify-content: center;
+}
+
+.start:hover {
+    color: white;
+}
+
+.start-two {
+    background-color: #372f7f;
+    color: wheat;
+    margin-left: 0;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.float {
+    float: center;
+    display: flex;
+}
+
+.main-container {
+    min-height: 100vh;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    padding-bottom: 100px;
+}
