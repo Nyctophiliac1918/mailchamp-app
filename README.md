@@ -26,7 +26,7 @@ Project is created with:
 
 ### Deployed Links
 * Backend: https://rocky-shore-56501.herokuapp.com/
-* Frontend: https://flipr-app-1918.netlify.app/
+* Frontend: https://mailchamp-ks.netlify.app/
 
 ## Setup
 To run this project, install it locally using npm and yarn, respectively.
