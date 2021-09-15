@@ -1,4 +1,4 @@
-# mailchamp-app
+# Mailchamp-app
 
 This is a web app, where you can schedule future and recurring emails
 
